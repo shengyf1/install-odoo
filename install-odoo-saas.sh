@@ -212,6 +212,10 @@
      pip install rotate-backups
      pip install oauthlib
      pip install requests --upgrade
+     pip install num2words
+     pip install xlwt
+     pip install xlrd
+     pip install XlsxWriter
  fi
 
  if [[ "$INIT_POSTGRESQL" != "no" ]]
